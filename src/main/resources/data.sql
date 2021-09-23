@@ -1,0 +1,1 @@
+insert into Product_Tbl values(1,'Arjun', 45, 2000);
