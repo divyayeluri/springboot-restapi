@@ -25,7 +25,6 @@ public class ProductController {
     }
     @GetMapping("/products")
     public List<Product> findAllProducts() {
-
         return service.getProducts();
     }
     //Pathvariable to pass the id field in url
